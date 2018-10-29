@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkApi", "HomeWorkApi\HomeWorkApi.csproj", "{F78BCA3D-DEE2-4F84-8402-53AE3002107F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F78BCA3D-DEE2-4F84-8402-53AE3002107F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F78BCA3D-DEE2-4F84-8402-53AE3002107F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F78BCA3D-DEE2-4F84-8402-53AE3002107F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F78BCA3D-DEE2-4F84-8402-53AE3002107F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA06AD6B-4B8A-4DB7-A683-B9D03041FF34}
+	EndGlobalSection
+EndGlobal
