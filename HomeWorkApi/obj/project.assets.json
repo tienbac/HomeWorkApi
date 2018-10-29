@@ -11509,11 +11509,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Documents\\Visual Studio 2017\\Projects\\HomeWorkApi\\HomeWorkApi\\HomeWorkApi.csproj",
+      "projectUniqueName": "D:\\Documents\\GitHub\\HomeWorkApi\\HomeWorkApi\\HomeWorkApi.csproj",
       "projectName": "HomeWorkApi",
-      "projectPath": "d:\\Documents\\Visual Studio 2017\\Projects\\HomeWorkApi\\HomeWorkApi\\HomeWorkApi.csproj",
+      "projectPath": "D:\\Documents\\GitHub\\HomeWorkApi\\HomeWorkApi\\HomeWorkApi.csproj",
       "packagesPath": "C:\\Users\\tienb\\.nuget\\packages\\",
-      "outputPath": "d:\\Documents\\Visual Studio 2017\\Projects\\HomeWorkApi\\HomeWorkApi\\obj\\",
+      "outputPath": "D:\\Documents\\GitHub\\HomeWorkApi\\HomeWorkApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

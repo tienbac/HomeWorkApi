@@ -1,0 +1,15 @@
+D:\Documents\GitHub\HomeWorkApi\HomeWorkApi\bin\Release\netcoreapp2.1\HomeWorkApi.deps.json
+D:\Documents\GitHub\HomeWorkApi\HomeWorkApi\bin\Release\netcoreapp2.1\HomeWorkApi.runtimeconfig.json
+D:\Documents\GitHub\HomeWorkApi\HomeWorkApi\bin\Release\netcoreapp2.1\HomeWorkApi.runtimeconfig.dev.json
+D:\Documents\GitHub\HomeWorkApi\HomeWorkApi\bin\Release\netcoreapp2.1\HomeWorkApi.dll
+D:\Documents\GitHub\HomeWorkApi\HomeWorkApi\bin\Release\netcoreapp2.1\HomeWorkApi.pdb
+D:\Documents\GitHub\HomeWorkApi\HomeWorkApi\obj\Release\netcoreapp2.1\HomeWorkApi.csprojAssemblyReference.cache
+D:\Documents\GitHub\HomeWorkApi\HomeWorkApi\obj\Release\netcoreapp2.1\HomeWorkApi.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\HomeWorkApi\HomeWorkApi\obj\Release\netcoreapp2.1\HomeWorkApi.RazorAssemblyInfo.cache
+D:\Documents\GitHub\HomeWorkApi\HomeWorkApi\obj\Release\netcoreapp2.1\HomeWorkApi.RazorAssemblyInfo.cs
+D:\Documents\GitHub\HomeWorkApi\HomeWorkApi\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Documents\GitHub\HomeWorkApi\HomeWorkApi\obj\Release\netcoreapp2.1\HomeWorkApi.AssemblyInfoInputs.cache
+D:\Documents\GitHub\HomeWorkApi\HomeWorkApi\obj\Release\netcoreapp2.1\HomeWorkApi.AssemblyInfo.cs
+D:\Documents\GitHub\HomeWorkApi\HomeWorkApi\obj\Release\netcoreapp2.1\HomeWorkApi.RazorTargetAssemblyInfo.cache
+D:\Documents\GitHub\HomeWorkApi\HomeWorkApi\obj\Release\netcoreapp2.1\HomeWorkApi.dll
+D:\Documents\GitHub\HomeWorkApi\HomeWorkApi\obj\Release\netcoreapp2.1\HomeWorkApi.pdb
